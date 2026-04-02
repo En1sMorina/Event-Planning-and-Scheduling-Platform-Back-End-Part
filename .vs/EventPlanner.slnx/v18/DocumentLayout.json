@@ -1,0 +1,1111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\enis-\\Desktop\\EventPlanner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.application\\dtos\\event\\attendeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|solutionrelative:eventplanner.application\\dtos\\event\\attendeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.application\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|solutionrelative:eventplanner.application\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|solutionrelative:eventplanner.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99040F43-9293-204E-DAFE-D6147E0E26C9}|EventPlanner.API\\EventPlanner.API.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99040F43-9293-204E-DAFE-D6147E0E26C9}|EventPlanner.API\\EventPlanner.API.csproj|solutionrelative:eventplanner.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99040F43-9293-204E-DAFE-D6147E0E26C9}|EventPlanner.API\\EventPlanner.API.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.api\\controllers\\eventmanagerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99040F43-9293-204E-DAFE-D6147E0E26C9}|EventPlanner.API\\EventPlanner.API.csproj|solutionrelative:eventplanner.api\\controllers\\eventmanagerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99040F43-9293-204E-DAFE-D6147E0E26C9}|EventPlanner.API\\EventPlanner.API.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.api\\controllers\\discussionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99040F43-9293-204E-DAFE-D6147E0E26C9}|EventPlanner.API\\EventPlanner.API.csproj|solutionrelative:eventplanner.api\\controllers\\discussionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99040F43-9293-204E-DAFE-D6147E0E26C9}|EventPlanner.API\\EventPlanner.API.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99040F43-9293-204E-DAFE-D6147E0E26C9}|EventPlanner.API\\EventPlanner.API.csproj|solutionrelative:eventplanner.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99040F43-9293-204E-DAFE-D6147E0E26C9}|EventPlanner.API\\EventPlanner.API.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99040F43-9293-204E-DAFE-D6147E0E26C9}|EventPlanner.API\\EventPlanner.API.csproj|solutionrelative:eventplanner.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.application\\validators\\registerdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|solutionrelative:eventplanner.application\\validators\\registerdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7957E8CE-C9B0-AB25-4D37-82DA65BC078D}|EventPlanner.Infrastructure\\EventPlanner.Infrastructure.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.infrastructure\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7957E8CE-C9B0-AB25-4D37-82DA65BC078D}|EventPlanner.Infrastructure\\EventPlanner.Infrastructure.csproj|solutionrelative:eventplanner.infrastructure\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7957E8CE-C9B0-AB25-4D37-82DA65BC078D}|EventPlanner.Infrastructure\\EventPlanner.Infrastructure.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7957E8CE-C9B0-AB25-4D37-82DA65BC078D}|EventPlanner.Infrastructure\\EventPlanner.Infrastructure.csproj|solutionrelative:eventplanner.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF308E8-09C8-5C0E-A871-744D3F2D0310}|EventPlanner.Core\\EventPlanner.Core.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.core\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF308E8-09C8-5C0E-A871-744D3F2D0310}|EventPlanner.Core\\EventPlanner.Core.csproj|solutionrelative:eventplanner.core\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF308E8-09C8-5C0E-A871-744D3F2D0310}|EventPlanner.Core\\EventPlanner.Core.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF308E8-09C8-5C0E-A871-744D3F2D0310}|EventPlanner.Core\\EventPlanner.Core.csproj|solutionrelative:eventplanner.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF308E8-09C8-5C0E-A871-744D3F2D0310}|EventPlanner.Core\\EventPlanner.Core.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.core\\enums\\eventstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF308E8-09C8-5C0E-A871-744D3F2D0310}|EventPlanner.Core\\EventPlanner.Core.csproj|solutionrelative:eventplanner.core\\enums\\eventstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF308E8-09C8-5C0E-A871-744D3F2D0310}|EventPlanner.Core\\EventPlanner.Core.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.core\\enums\\notificationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF308E8-09C8-5C0E-A871-744D3F2D0310}|EventPlanner.Core\\EventPlanner.Core.csproj|solutionrelative:eventplanner.core\\enums\\notificationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF308E8-09C8-5C0E-A871-744D3F2D0310}|EventPlanner.Core\\EventPlanner.Core.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.core\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF308E8-09C8-5C0E-A871-744D3F2D0310}|EventPlanner.Core\\EventPlanner.Core.csproj|solutionrelative:eventplanner.core\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Test\\CoverageBoost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EventPlanner.Test\\CoverageBoost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Infrastructure\\Migrations\\20260220003856_AddPriceToEvent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EventPlanner.Infrastructure\\Migrations\\20260220003856_AddPriceToEvent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.application\\services\\discussionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|solutionrelative:eventplanner.application\\services\\discussionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7957E8CE-C9B0-AB25-4D37-82DA65BC078D}|EventPlanner.Infrastructure\\EventPlanner.Infrastructure.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.infrastructure\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7957E8CE-C9B0-AB25-4D37-82DA65BC078D}|EventPlanner.Infrastructure\\EventPlanner.Infrastructure.csproj|solutionrelative:eventplanner.infrastructure\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F53E101-C175-44EE-BAF6-1BD53729DACE}|EventPlanner.Test\\EventPlanner.Test.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.test\\authservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F53E101-C175-44EE-BAF6-1BD53729DACE}|EventPlanner.Test\\EventPlanner.Test.csproj|solutionrelative:eventplanner.test\\authservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F53E101-C175-44EE-BAF6-1BD53729DACE}|EventPlanner.Test\\EventPlanner.Test.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.test\\eventattendanceservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F53E101-C175-44EE-BAF6-1BD53729DACE}|EventPlanner.Test\\EventPlanner.Test.csproj|solutionrelative:eventplanner.test\\eventattendanceservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F53E101-C175-44EE-BAF6-1BD53729DACE}|EventPlanner.Test\\EventPlanner.Test.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.test\\eventservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F53E101-C175-44EE-BAF6-1BD53729DACE}|EventPlanner.Test\\EventPlanner.Test.csproj|solutionrelative:eventplanner.test\\eventservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F53E101-C175-44EE-BAF6-1BD53729DACE}|EventPlanner.Test\\EventPlanner.Test.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.test\\eventplanner.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8F53E101-C175-44EE-BAF6-1BD53729DACE}|EventPlanner.Test\\EventPlanner.Test.csproj|solutionrelative:eventplanner.test\\eventplanner.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.application\\eventplanner.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|solutionrelative:eventplanner.application\\eventplanner.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.application\\interfaces\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|solutionrelative:eventplanner.application\\interfaces\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.application\\dtos\\notification\\notificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|solutionrelative:eventplanner.application\\dtos\\notification\\notificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF308E8-09C8-5C0E-A871-744D3F2D0310}|EventPlanner.Core\\EventPlanner.Core.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.core\\entities\\eventattendee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF308E8-09C8-5C0E-A871-744D3F2D0310}|EventPlanner.Core\\EventPlanner.Core.csproj|solutionrelative:eventplanner.core\\entities\\eventattendee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.application\\dtos\\auth\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|solutionrelative:eventplanner.application\\dtos\\auth\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7957E8CE-C9B0-AB25-4D37-82DA65BC078D}|EventPlanner.Infrastructure\\EventPlanner.Infrastructure.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.infrastructure\\migrations\\20260220191444_addpasswordresetfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7957E8CE-C9B0-AB25-4D37-82DA65BC078D}|EventPlanner.Infrastructure\\EventPlanner.Infrastructure.csproj|solutionrelative:eventplanner.infrastructure\\migrations\\20260220191444_addpasswordresetfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99040F43-9293-204E-DAFE-D6147E0E26C9}|EventPlanner.API\\EventPlanner.API.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.api\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99040F43-9293-204E-DAFE-D6147E0E26C9}|EventPlanner.API\\EventPlanner.API.csproj|solutionrelative:eventplanner.api\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99040F43-9293-204E-DAFE-D6147E0E26C9}|EventPlanner.API\\EventPlanner.API.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.api\\controllers\\webhookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99040F43-9293-204E-DAFE-D6147E0E26C9}|EventPlanner.API\\EventPlanner.API.csproj|solutionrelative:eventplanner.api\\controllers\\webhookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7957E8CE-C9B0-AB25-4D37-82DA65BC078D}|EventPlanner.Infrastructure\\EventPlanner.Infrastructure.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.infrastructure\\migrations\\20260220004317_addeventprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7957E8CE-C9B0-AB25-4D37-82DA65BC078D}|EventPlanner.Infrastructure\\EventPlanner.Infrastructure.csproj|solutionrelative:eventplanner.infrastructure\\migrations\\20260220004317_addeventprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.application\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|solutionrelative:eventplanner.application\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.application\\interfaces\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|solutionrelative:eventplanner.application\\interfaces\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF308E8-09C8-5C0E-A871-744D3F2D0310}|EventPlanner.Core\\EventPlanner.Core.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.core\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF308E8-09C8-5C0E-A871-744D3F2D0310}|EventPlanner.Core\\EventPlanner.Core.csproj|solutionrelative:eventplanner.core\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7957E8CE-C9B0-AB25-4D37-82DA65BC078D}|EventPlanner.Infrastructure\\EventPlanner.Infrastructure.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.infrastructure\\migrations\\20260216192552_addreminderflag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7957E8CE-C9B0-AB25-4D37-82DA65BC078D}|EventPlanner.Infrastructure\\EventPlanner.Infrastructure.csproj|solutionrelative:eventplanner.infrastructure\\migrations\\20260216192552_addreminderflag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7957E8CE-C9B0-AB25-4D37-82DA65BC078D}|EventPlanner.Infrastructure\\EventPlanner.Infrastructure.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.infrastructure\\migrations\\20260214145945_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7957E8CE-C9B0-AB25-4D37-82DA65BC078D}|EventPlanner.Infrastructure\\EventPlanner.Infrastructure.csproj|solutionrelative:eventplanner.infrastructure\\migrations\\20260214145945_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99040F43-9293-204E-DAFE-D6147E0E26C9}|EventPlanner.API\\EventPlanner.API.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.api\\eventplanner.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{99040F43-9293-204E-DAFE-D6147E0E26C9}|EventPlanner.API\\EventPlanner.API.csproj|solutionrelative:eventplanner.api\\eventplanner.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.application\\dtos\\event\\discussiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|solutionrelative:eventplanner.application\\dtos\\event\\discussiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.application\\interfaces\\idiscussionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|solutionrelative:eventplanner.application\\interfaces\\idiscussionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.application\\dtos\\event\\localizedeventsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|solutionrelative:eventplanner.application\\dtos\\event\\localizedeventsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99040F43-9293-204E-DAFE-D6147E0E26C9}|EventPlanner.API\\EventPlanner.API.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.api\\controllers\\eventattendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99040F43-9293-204E-DAFE-D6147E0E26C9}|EventPlanner.API\\EventPlanner.API.csproj|solutionrelative:eventplanner.api\\controllers\\eventattendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|solutionrelative:eventplanner.application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|solutionrelative:eventplanner.application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.application\\dtos\\auth\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|solutionrelative:eventplanner.application\\dtos\\auth\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.application\\dtos\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|solutionrelative:eventplanner.application\\dtos\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.application\\dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|solutionrelative:eventplanner.application\\dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.application\\dtos\\auth\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|solutionrelative:eventplanner.application\\dtos\\auth\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.application\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|solutionrelative:eventplanner.application\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.application\\interfaces\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|solutionrelative:eventplanner.application\\interfaces\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.application\\dtos\\event\\admindashboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|solutionrelative:eventplanner.application\\dtos\\event\\admindashboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.application\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|solutionrelative:eventplanner.application\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.application\\dtos\\event\\createeventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|solutionrelative:eventplanner.application\\dtos\\event\\createeventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.application\\dtos\\event\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|solutionrelative:eventplanner.application\\dtos\\event\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF308E8-09C8-5C0E-A871-744D3F2D0310}|EventPlanner.Core\\EventPlanner.Core.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.core\\entities\\eventcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF308E8-09C8-5C0E-A871-744D3F2D0310}|EventPlanner.Core\\EventPlanner.Core.csproj|solutionrelative:eventplanner.core\\entities\\eventcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99040F43-9293-204E-DAFE-D6147E0E26C9}|EventPlanner.API\\EventPlanner.API.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{99040F43-9293-204E-DAFE-D6147E0E26C9}|EventPlanner.API\\EventPlanner.API.csproj|solutionrelative:eventplanner.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|solutionrelative:eventplanner.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.application\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|solutionrelative:eventplanner.application\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.application\\interfaces\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|solutionrelative:eventplanner.application\\interfaces\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.application\\dtos\\event\\managerdashboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|solutionrelative:eventplanner.application\\dtos\\event\\managerdashboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99040F43-9293-204E-DAFE-D6147E0E26C9}|EventPlanner.API\\EventPlanner.API.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99040F43-9293-204E-DAFE-D6147E0E26C9}|EventPlanner.API\\EventPlanner.API.csproj|solutionrelative:eventplanner.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B93783C-D1B2-DECA-FCB2-17BA387C15B5}|EventPlanner.Application\\EventPlanner.Application.csproj|solutionrelative:eventplanner.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99040F43-9293-204E-DAFE-D6147E0E26C9}|EventPlanner.API\\EventPlanner.API.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.api\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99040F43-9293-204E-DAFE-D6147E0E26C9}|EventPlanner.API\\EventPlanner.API.csproj|solutionrelative:eventplanner.api\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99040F43-9293-204E-DAFE-D6147E0E26C9}|EventPlanner.API\\EventPlanner.API.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.api\\eventplanner.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{99040F43-9293-204E-DAFE-D6147E0E26C9}|EventPlanner.API\\EventPlanner.API.csproj|solutionrelative:eventplanner.api\\eventplanner.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF308E8-09C8-5C0E-A871-744D3F2D0310}|EventPlanner.Core\\EventPlanner.Core.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.core\\eventplanner.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6CF308E8-09C8-5C0E-A871-744D3F2D0310}|EventPlanner.Core\\EventPlanner.Core.csproj|solutionrelative:eventplanner.core\\eventplanner.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7957E8CE-C9B0-AB25-4D37-82DA65BC078D}|EventPlanner.Infrastructure\\EventPlanner.Infrastructure.csproj|c:\\users\\enis-\\desktop\\eventplanner\\eventplanner.infrastructure\\eventplanner.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7957E8CE-C9B0-AB25-4D37-82DA65BC078D}|EventPlanner.Infrastructure\\EventPlanner.Infrastructure.csproj|solutionrelative:eventplanner.infrastructure\\eventplanner.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 241,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DiscussionService.cs",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\Services\\DiscussionService.cs",
+              "RelativeDocumentMoniker": "EventPlanner.Application\\Services\\DiscussionService.cs",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\Services\\DiscussionService.cs",
+              "RelativeToolTip": "EventPlanner.Application\\Services\\DiscussionService.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAD4vyUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T18:10:37.824Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "EventPlanner.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "EventPlanner.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T00:53:59.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AuthServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Test\\AuthServiceTests.cs",
+              "RelativeDocumentMoniker": "EventPlanner.Test\\AuthServiceTests.cs",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Test\\AuthServiceTests.cs",
+              "RelativeToolTip": "EventPlanner.Test\\AuthServiceTests.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAwwKcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T02:09:36.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EventAttendanceServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Test\\EventAttendanceServiceTests.cs",
+              "RelativeDocumentMoniker": "EventPlanner.Test\\EventAttendanceServiceTests.cs",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Test\\EventAttendanceServiceTests.cs",
+              "RelativeToolTip": "EventPlanner.Test\\EventAttendanceServiceTests.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAUwGsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T02:01:13.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EventServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Test\\EventServiceTests.cs",
+              "RelativeDocumentMoniker": "EventPlanner.Test\\EventServiceTests.cs",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Test\\EventServiceTests.cs",
+              "RelativeToolTip": "EventPlanner.Test\\EventServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T02:00:02.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EventPlanner.Test.csproj",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Test\\EventPlanner.Test.csproj",
+              "RelativeDocumentMoniker": "EventPlanner.Test\\EventPlanner.Test.csproj",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Test\\EventPlanner.Test.csproj",
+              "RelativeToolTip": "EventPlanner.Test\\EventPlanner.Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-26T02:30:23.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CoverageBoost.cs",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Test\\CoverageBoost.cs",
+              "RelativeDocumentMoniker": "EventPlanner.Test\\CoverageBoost.cs",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Test\\CoverageBoost.cs",
+              "RelativeToolTip": "EventPlanner.Test\\CoverageBoost.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T02:29:44.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EventPlanner.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\EventPlanner.Application.csproj",
+              "RelativeDocumentMoniker": "EventPlanner.Application\\EventPlanner.Application.csproj",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\EventPlanner.Application.csproj",
+              "RelativeToolTip": "EventPlanner.Application\\EventPlanner.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-25T18:34:18.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "INotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\Interfaces\\INotificationService.cs",
+              "RelativeDocumentMoniker": "EventPlanner.Application\\Interfaces\\INotificationService.cs",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\Interfaces\\INotificationService.cs",
+              "RelativeToolTip": "EventPlanner.Application\\Interfaces\\INotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T20:08:24.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Core\\Entities\\Notification.cs",
+              "RelativeDocumentMoniker": "EventPlanner.Core\\Entities\\Notification.cs",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Core\\Entities\\Notification.cs",
+              "RelativeToolTip": "EventPlanner.Core\\Entities\\Notification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T20:06:37.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "NotificationDto.cs",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\DTOs\\Notification\\NotificationDto.cs",
+              "RelativeDocumentMoniker": "EventPlanner.Application\\DTOs\\Notification\\NotificationDto.cs",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\DTOs\\Notification\\NotificationDto.cs",
+              "RelativeToolTip": "EventPlanner.Application\\DTOs\\Notification\\NotificationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T15:57:51.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NotificationType.cs",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Core\\Enums\\NotificationType.cs",
+              "RelativeDocumentMoniker": "EventPlanner.Core\\Enums\\NotificationType.cs",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Core\\Enums\\NotificationType.cs",
+              "RelativeToolTip": "EventPlanner.Core\\Enums\\NotificationType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T21:38:49.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EventPlanner.Application\\Interfaces\\IApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeToolTip": "EventPlanner.Application\\Interfaces\\IApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T20:15:25.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AttendeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\DTOs\\Event\\AttendeeDto.cs",
+              "RelativeDocumentMoniker": "EventPlanner.Application\\DTOs\\Event\\AttendeeDto.cs",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\DTOs\\Event\\AttendeeDto.cs",
+              "RelativeToolTip": "EventPlanner.Application\\DTOs\\Event\\AttendeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T20:04:36.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EventAttendee.cs",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Core\\Entities\\EventAttendee.cs",
+              "RelativeDocumentMoniker": "EventPlanner.Core\\Entities\\EventAttendee.cs",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Core\\Entities\\EventAttendee.cs",
+              "RelativeToolTip": "EventPlanner.Core\\Entities\\EventAttendee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T20:01:47.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ResetPasswordDto.cs",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\DTOs\\Auth\\ResetPasswordDto.cs",
+              "RelativeDocumentMoniker": "EventPlanner.Application\\DTOs\\Auth\\ResetPasswordDto.cs",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\DTOs\\Auth\\ResetPasswordDto.cs",
+              "RelativeToolTip": "EventPlanner.Application\\DTOs\\Auth\\ResetPasswordDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T19:18:34.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20260220191444_AddPasswordResetFields.cs",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Infrastructure\\Migrations\\20260220191444_AddPasswordResetFields.cs",
+              "RelativeDocumentMoniker": "EventPlanner.Infrastructure\\Migrations\\20260220191444_AddPasswordResetFields.cs",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Infrastructure\\Migrations\\20260220191444_AddPasswordResetFields.cs",
+              "RelativeToolTip": "EventPlanner.Infrastructure\\Migrations\\20260220191444_AddPasswordResetFields.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T19:14:45.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "NotificationsController.cs",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.API\\Controllers\\NotificationsController.cs",
+              "RelativeDocumentMoniker": "EventPlanner.API\\Controllers\\NotificationsController.cs",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.API\\Controllers\\NotificationsController.cs",
+              "RelativeToolTip": "EventPlanner.API\\Controllers\\NotificationsController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T00:55:23.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "WebhooksController.cs",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.API\\Controllers\\WebhooksController.cs",
+              "RelativeDocumentMoniker": "EventPlanner.API\\Controllers\\WebhooksController.cs",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.API\\Controllers\\WebhooksController.cs",
+              "RelativeToolTip": "EventPlanner.API\\Controllers\\WebhooksController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T01:17:35.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20260220004317_AddEventPrice.cs",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Infrastructure\\Migrations\\20260220004317_AddEventPrice.cs",
+              "RelativeDocumentMoniker": "EventPlanner.Infrastructure\\Migrations\\20260220004317_AddEventPrice.cs",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Infrastructure\\Migrations\\20260220004317_AddEventPrice.cs",
+              "RelativeToolTip": "EventPlanner.Infrastructure\\Migrations\\20260220004317_AddEventPrice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T00:43:17.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\Services\\PaymentService.cs",
+              "RelativeDocumentMoniker": "EventPlanner.Application\\Services\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\Services\\PaymentService.cs",
+              "RelativeToolTip": "EventPlanner.Application\\Services\\PaymentService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T23:36:00.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IPaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\Interfaces\\IPaymentService.cs",
+              "RelativeDocumentMoniker": "EventPlanner.Application\\Interfaces\\IPaymentService.cs",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\Interfaces\\IPaymentService.cs",
+              "RelativeToolTip": "EventPlanner.Application\\Interfaces\\IPaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T23:35:04.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Core\\Entities\\Event.cs",
+              "RelativeDocumentMoniker": "EventPlanner.Core\\Entities\\Event.cs",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Core\\Entities\\Event.cs",
+              "RelativeToolTip": "EventPlanner.Core\\Entities\\Event.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T23:33:53.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20260216192552_AddReminderFlag.cs",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Infrastructure\\Migrations\\20260216192552_AddReminderFlag.cs",
+              "RelativeDocumentMoniker": "EventPlanner.Infrastructure\\Migrations\\20260216192552_AddReminderFlag.cs",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Infrastructure\\Migrations\\20260216192552_AddReminderFlag.cs",
+              "RelativeToolTip": "EventPlanner.Infrastructure\\Migrations\\20260216192552_AddReminderFlag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T22:50:06.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20260214145945_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Infrastructure\\Migrations\\20260214145945_InitialCreate.cs",
+              "RelativeDocumentMoniker": "EventPlanner.Infrastructure\\Migrations\\20260214145945_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Infrastructure\\Migrations\\20260214145945_InitialCreate.cs",
+              "RelativeToolTip": "EventPlanner.Infrastructure\\Migrations\\20260214145945_InitialCreate.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwOwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T22:47:43.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\Validators\\RegisterDtoValidator.cs",
+              "RelativeDocumentMoniker": "EventPlanner.Application\\Validators\\RegisterDtoValidator.cs",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\Validators\\RegisterDtoValidator.cs",
+              "RelativeToolTip": "EventPlanner.Application\\Validators\\RegisterDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T22:38:08.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "EventPlanner.API.http",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.API\\EventPlanner.API.http",
+              "RelativeDocumentMoniker": "EventPlanner.API\\EventPlanner.API.http",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.API\\EventPlanner.API.http",
+              "RelativeToolTip": "EventPlanner.API\\EventPlanner.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-02-19T22:08:30.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DiscussionDto.cs",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\DTOs\\Event\\DiscussionDto.cs",
+              "RelativeDocumentMoniker": "EventPlanner.Application\\DTOs\\Event\\DiscussionDto.cs",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\DTOs\\Event\\DiscussionDto.cs",
+              "RelativeToolTip": "EventPlanner.Application\\DTOs\\Event\\DiscussionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T19:40:41.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DiscussionsController.cs",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.API\\Controllers\\DiscussionsController.cs",
+              "RelativeDocumentMoniker": "EventPlanner.API\\Controllers\\DiscussionsController.cs",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.API\\Controllers\\DiscussionsController.cs",
+              "RelativeToolTip": "EventPlanner.API\\Controllers\\DiscussionsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T19:39:22.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IDiscussionService.cs",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\Interfaces\\IDiscussionService.cs",
+              "RelativeDocumentMoniker": "EventPlanner.Application\\Interfaces\\IDiscussionService.cs",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\Interfaces\\IDiscussionService.cs",
+              "RelativeToolTip": "EventPlanner.Application\\Interfaces\\IDiscussionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T19:29:46.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "LocalizedEventsDto.cs",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\DTOs\\Event\\LocalizedEventsDto.cs",
+              "RelativeDocumentMoniker": "EventPlanner.Application\\DTOs\\Event\\LocalizedEventsDto.cs",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\DTOs\\Event\\LocalizedEventsDto.cs",
+              "RelativeToolTip": "EventPlanner.Application\\DTOs\\Event\\LocalizedEventsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T18:50:41.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "EventAttendanceController.cs",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.API\\Controllers\\EventAttendanceController.cs",
+              "RelativeDocumentMoniker": "EventPlanner.API\\Controllers\\EventAttendanceController.cs",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.API\\Controllers\\EventAttendanceController.cs",
+              "RelativeToolTip": "EventPlanner.API\\Controllers\\EventAttendanceController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T18:36:35.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventManagersController.cs",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.API\\Controllers\\EventManagersController.cs",
+              "RelativeDocumentMoniker": "EventPlanner.API\\Controllers\\EventManagersController.cs",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.API\\Controllers\\EventManagersController.cs",
+              "RelativeToolTip": "EventPlanner.API\\Controllers\\EventManagersController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T17:50:28.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "EventPlanner.Application\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "EventPlanner.Application\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T22:35:36.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.API\\Program.cs",
+              "RelativeDocumentMoniker": "EventPlanner.API\\Program.cs",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.API\\Program.cs",
+              "RelativeToolTip": "EventPlanner.API\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T19:58:06.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "EventPlanner.Application\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "EventPlanner.Application\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T19:48:20.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\DTOs\\Auth\\UserDto.cs",
+              "RelativeDocumentMoniker": "EventPlanner.Application\\DTOs\\Auth\\UserDto.cs",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\DTOs\\Auth\\UserDto.cs",
+              "RelativeToolTip": "EventPlanner.Application\\DTOs\\Auth\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T19:43:42.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\DTOs\\Auth\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "EventPlanner.Application\\DTOs\\Auth\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\DTOs\\Auth\\RegisterDto.cs",
+              "RelativeToolTip": "EventPlanner.Application\\DTOs\\Auth\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T19:43:16.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\DTOs\\Auth\\LoginDto.cs",
+              "RelativeDocumentMoniker": "EventPlanner.Application\\DTOs\\Auth\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\DTOs\\Auth\\LoginDto.cs",
+              "RelativeToolTip": "EventPlanner.Application\\DTOs\\Auth\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T19:43:13.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "AuthResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\DTOs\\Auth\\AuthResponseDto.cs",
+              "RelativeDocumentMoniker": "EventPlanner.Application\\DTOs\\Auth\\AuthResponseDto.cs",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\DTOs\\Auth\\AuthResponseDto.cs",
+              "RelativeToolTip": "EventPlanner.Application\\DTOs\\Auth\\AuthResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T19:43:07.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.API\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "EventPlanner.API\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.API\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "EventPlanner.API\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T19:39:46.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\Services\\AdminService.cs",
+              "RelativeDocumentMoniker": "EventPlanner.Application\\Services\\AdminService.cs",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\Services\\AdminService.cs",
+              "RelativeToolTip": "EventPlanner.Application\\Services\\AdminService.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAswJUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T19:37:18.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IAdminService.cs",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\Interfaces\\IAdminService.cs",
+              "RelativeDocumentMoniker": "EventPlanner.Application\\Interfaces\\IAdminService.cs",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\Interfaces\\IAdminService.cs",
+              "RelativeToolTip": "EventPlanner.Application\\Interfaces\\IAdminService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T19:35:00.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "AdminDashboardDto.cs",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\DTOs\\Event\\AdminDashboardDto.cs",
+              "RelativeDocumentMoniker": "EventPlanner.Application\\DTOs\\Event\\AdminDashboardDto.cs",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\DTOs\\Event\\AdminDashboardDto.cs",
+              "RelativeToolTip": "EventPlanner.Application\\DTOs\\Event\\AdminDashboardDto.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T19:27:57.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EventStatus.cs",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Core\\Enums\\EventStatus.cs",
+              "RelativeDocumentMoniker": "EventPlanner.Core\\Enums\\EventStatus.cs",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Core\\Enums\\EventStatus.cs",
+              "RelativeToolTip": "EventPlanner.Core\\Enums\\EventStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T19:01:36.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\Services\\NotificationService.cs",
+              "RelativeDocumentMoniker": "EventPlanner.Application\\Services\\NotificationService.cs",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\Services\\NotificationService.cs",
+              "RelativeToolTip": "EventPlanner.Application\\Services\\NotificationService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T19:01:08.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CreateEventDto.cs",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\DTOs\\Event\\CreateEventDto.cs",
+              "RelativeDocumentMoniker": "EventPlanner.Application\\DTOs\\Event\\CreateEventDto.cs",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\DTOs\\Event\\CreateEventDto.cs",
+              "RelativeToolTip": "EventPlanner.Application\\DTOs\\Event\\CreateEventDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T19:01:01.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "EventDto.cs",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\DTOs\\Event\\EventDto.cs",
+              "RelativeDocumentMoniker": "EventPlanner.Application\\DTOs\\Event\\EventDto.cs",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\DTOs\\Event\\EventDto.cs",
+              "RelativeToolTip": "EventPlanner.Application\\DTOs\\Event\\EventDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T19:00:49.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EventPlanner.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EventPlanner.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T19:00:40.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "EventCategory.cs",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Core\\Entities\\EventCategory.cs",
+              "RelativeDocumentMoniker": "EventPlanner.Core\\Entities\\EventCategory.cs",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Core\\Entities\\EventCategory.cs",
+              "RelativeToolTip": "EventPlanner.Core\\Entities\\EventCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T19:00:36.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.API\\appsettings.json",
+              "RelativeDocumentMoniker": "EventPlanner.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.API\\appsettings.json",
+              "RelativeToolTip": "EventPlanner.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-18T18:35:18.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Core\\Enums\\UserRole.cs",
+              "RelativeDocumentMoniker": "EventPlanner.Core\\Enums\\UserRole.cs",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Core\\Enums\\UserRole.cs",
+              "RelativeToolTip": "EventPlanner.Core\\Enums\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T18:17:55.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "EventPlanner.Core\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Core\\Entities\\User.cs",
+              "RelativeToolTip": "EventPlanner.Core\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T18:17:38.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "EventPlanner.Application\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\Services\\AuthService.cs",
+              "RelativeToolTip": "EventPlanner.Application\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T18:17:23.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "EventService.cs",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\Services\\EventService.cs",
+              "RelativeDocumentMoniker": "EventPlanner.Application\\Services\\EventService.cs",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\Services\\EventService.cs",
+              "RelativeToolTip": "EventPlanner.Application\\Services\\EventService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T18:15:58.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "IEventService.cs",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\Interfaces\\IEventService.cs",
+              "RelativeDocumentMoniker": "EventPlanner.Application\\Interfaces\\IEventService.cs",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\Interfaces\\IEventService.cs",
+              "RelativeToolTip": "EventPlanner.Application\\Interfaces\\IEventService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T18:14:08.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ManagerDashboardDto.cs",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\DTOs\\Event\\ManagerDashboardDto.cs",
+              "RelativeDocumentMoniker": "EventPlanner.Application\\DTOs\\Event\\ManagerDashboardDto.cs",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\DTOs\\Event\\ManagerDashboardDto.cs",
+              "RelativeToolTip": "EventPlanner.Application\\DTOs\\Event\\ManagerDashboardDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T18:13:16.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "EventPlanner.API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "EventPlanner.API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T17:51:12.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "EventPlanner.Application\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\Services\\UserService.cs",
+              "RelativeToolTip": "EventPlanner.Application\\Services\\UserService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwBkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T17:46:28.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "EventPlanner.Application\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Application\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "EventPlanner.Application\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T17:44:40.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "EventsController.cs",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.API\\Controllers\\EventsController.cs",
+              "RelativeDocumentMoniker": "EventPlanner.API\\Controllers\\EventsController.cs",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.API\\Controllers\\EventsController.cs",
+              "RelativeToolTip": "EventPlanner.API\\Controllers\\EventsController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwFsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T02:22:46.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "EventPlanner.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "EventPlanner.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T02:22:42.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Infrastructure\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "EventPlanner.Infrastructure\\Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Infrastructure\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "EventPlanner.Infrastructure\\Data\\DbInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T21:55:45.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "EventPlanner.API.csproj",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.API\\EventPlanner.API.csproj",
+              "RelativeDocumentMoniker": "EventPlanner.API\\EventPlanner.API.csproj",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.API\\EventPlanner.API.csproj",
+              "RelativeToolTip": "EventPlanner.API\\EventPlanner.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-17T21:49:57.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "EventPlanner.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Core\\EventPlanner.Core.csproj",
+              "RelativeDocumentMoniker": "EventPlanner.Core\\EventPlanner.Core.csproj",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Core\\EventPlanner.Core.csproj",
+              "RelativeToolTip": "EventPlanner.Core\\EventPlanner.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-14T13:47:39.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "EventPlanner.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Infrastructure\\EventPlanner.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "EventPlanner.Infrastructure\\EventPlanner.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Infrastructure\\EventPlanner.Infrastructure.csproj",
+              "RelativeToolTip": "EventPlanner.Infrastructure\\EventPlanner.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-14T13:26:29.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20260220003856_AddPriceToEvent.cs",
+              "DocumentMoniker": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Infrastructure\\Migrations\\20260220003856_AddPriceToEvent.cs",
+              "RelativeDocumentMoniker": "EventPlanner.Infrastructure\\Migrations\\20260220003856_AddPriceToEvent.cs",
+              "ToolTip": "C:\\Users\\enis-\\Desktop\\EventPlanner\\EventPlanner.Infrastructure\\Migrations\\20260220003856_AddPriceToEvent.cs",
+              "RelativeToolTip": "EventPlanner.Infrastructure\\Migrations\\20260220003856_AddPriceToEvent.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T00:38:56.424Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

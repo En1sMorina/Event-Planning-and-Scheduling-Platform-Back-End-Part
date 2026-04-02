@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\EventPlanner.API",
+    "\\EventPlanner.API\\Controllers",
+    "\\EventPlanner.Application",
+    "\\EventPlanner.Application\\Services",
+    "\\EventPlanner.Core",
+    "\\EventPlanner.Infrastructure"
+  ],
+  "SelectedNode": "\\EventPlanner.slnx",
+  "PreviewInSolutionExplorer": false
+}

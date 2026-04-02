@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="EventPlanner.API/EventPlanner.API.csproj" />
+  <Project Path="EventPlanner.Application/EventPlanner.Application.csproj" />
+  <Project Path="EventPlanner.Core/EventPlanner.Core.csproj" />
+  <Project Path="EventPlanner.Infrastructure/EventPlanner.Infrastructure.csproj" />
+  <Project Path="EventPlanner.Test/EventPlanner.Test.csproj" Id="8f53e101-c175-44ee-baf6-1bd53729dace" />
+</Solution>

@@ -1,0 +1,15 @@
+C:\Users\enis-\Desktop\EventPlanner\EventPlanner.Application\bin\Debug\net8.0\EventPlanner.Application.deps.json
+C:\Users\enis-\Desktop\EventPlanner\EventPlanner.Application\bin\Debug\net8.0\EventPlanner.Application.dll
+C:\Users\enis-\Desktop\EventPlanner\EventPlanner.Application\bin\Debug\net8.0\EventPlanner.Application.pdb
+C:\Users\enis-\Desktop\EventPlanner\EventPlanner.Application\bin\Debug\net8.0\EventPlanner.Core.dll
+C:\Users\enis-\Desktop\EventPlanner\EventPlanner.Application\bin\Debug\net8.0\EventPlanner.Core.pdb
+C:\Users\enis-\Desktop\EventPlanner\EventPlanner.Application\obj\Debug\net8.0\EventPlanner.Application.csproj.AssemblyReference.cache
+C:\Users\enis-\Desktop\EventPlanner\EventPlanner.Application\obj\Debug\net8.0\EventPlanner.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enis-\Desktop\EventPlanner\EventPlanner.Application\obj\Debug\net8.0\EventPlanner.Application.AssemblyInfoInputs.cache
+C:\Users\enis-\Desktop\EventPlanner\EventPlanner.Application\obj\Debug\net8.0\EventPlanner.Application.AssemblyInfo.cs
+C:\Users\enis-\Desktop\EventPlanner\EventPlanner.Application\obj\Debug\net8.0\EventPlanner.Application.csproj.CoreCompileInputs.cache
+C:\Users\enis-\Desktop\EventPlanner\EventPlanner.Application\obj\Debug\net8.0\EventPla.BB7DF842.Up2Date
+C:\Users\enis-\Desktop\EventPlanner\EventPlanner.Application\obj\Debug\net8.0\EventPlanner.Application.dll
+C:\Users\enis-\Desktop\EventPlanner\EventPlanner.Application\obj\Debug\net8.0\refint\EventPlanner.Application.dll
+C:\Users\enis-\Desktop\EventPlanner\EventPlanner.Application\obj\Debug\net8.0\EventPlanner.Application.pdb
+C:\Users\enis-\Desktop\EventPlanner\EventPlanner.Application\obj\Debug\net8.0\ref\EventPlanner.Application.dll

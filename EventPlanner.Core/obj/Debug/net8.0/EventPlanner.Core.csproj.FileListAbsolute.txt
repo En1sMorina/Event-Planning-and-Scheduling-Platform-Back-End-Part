@@ -1,0 +1,11 @@
+C:\Users\enis-\Desktop\EventPlanner\EventPlanner.Core\bin\Debug\net8.0\EventPlanner.Core.deps.json
+C:\Users\enis-\Desktop\EventPlanner\EventPlanner.Core\bin\Debug\net8.0\EventPlanner.Core.dll
+C:\Users\enis-\Desktop\EventPlanner\EventPlanner.Core\bin\Debug\net8.0\EventPlanner.Core.pdb
+C:\Users\enis-\Desktop\EventPlanner\EventPlanner.Core\obj\Debug\net8.0\EventPlanner.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enis-\Desktop\EventPlanner\EventPlanner.Core\obj\Debug\net8.0\EventPlanner.Core.AssemblyInfoInputs.cache
+C:\Users\enis-\Desktop\EventPlanner\EventPlanner.Core\obj\Debug\net8.0\EventPlanner.Core.AssemblyInfo.cs
+C:\Users\enis-\Desktop\EventPlanner\EventPlanner.Core\obj\Debug\net8.0\EventPlanner.Core.csproj.CoreCompileInputs.cache
+C:\Users\enis-\Desktop\EventPlanner\EventPlanner.Core\obj\Debug\net8.0\EventPlanner.Core.dll
+C:\Users\enis-\Desktop\EventPlanner\EventPlanner.Core\obj\Debug\net8.0\refint\EventPlanner.Core.dll
+C:\Users\enis-\Desktop\EventPlanner\EventPlanner.Core\obj\Debug\net8.0\EventPlanner.Core.pdb
+C:\Users\enis-\Desktop\EventPlanner\EventPlanner.Core\obj\Debug\net8.0\ref\EventPlanner.Core.dll
